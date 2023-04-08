@@ -1,4 +1,4 @@
-# Mariam-maghraby
+# Mariam Maghraby
 
 ![Mariams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-maghraby&show_icons=true&theme=radical) 
 
