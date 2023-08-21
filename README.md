@@ -17,7 +17,25 @@ class MariamMaghraby():
 if __name__ == '__main__':
     me = MariamMaghraby()
 ```
+<h2 align="center">Github Stats</h2>
 
-![Mariams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-maghraby&show_icons=true&theme=radical) 
+<div>
+<div align="left">
+    
+![Mariams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-maghraby&hide=issues&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-maghraby&hide_progress=true)](https://github.com/Mariam-maghraby/github-readme-stats)
+</div>
+
+<div align="right">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-maghraby&hide_progress=true&theme=radical)](https://github.com/Mariam-maghraby/github-readme-stats)
+
+</div>
+</div>
+
+
+
+
+
+
+
