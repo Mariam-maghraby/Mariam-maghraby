@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Mariam Maghraby <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Mariam Maghraby <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55"></h1>
 
 ```
 class MariamMaghraby():
@@ -17,21 +17,11 @@ class MariamMaghraby():
 if __name__ == '__main__':
     me = MariamMaghraby()
 ```
+
 <h2 align="center">Github Stats</h2>
 
-<div>
-<div align="left">
-    
-![Mariams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-maghraby&hide=issues&show_icons=true&theme=radical)
+ ![Mariams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-maghraby&hide=issues&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-maghraby&hide_progress=true&theme=radical)](https://github.com/Mariam-maghraby/github-readme-stats)
 
-</div>
-
-<div align="right">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-maghraby&hide_progress=true&theme=radical)](https://github.com/Mariam-maghraby/github-readme-stats)
-
-</div>
-</div>
 
 
 
