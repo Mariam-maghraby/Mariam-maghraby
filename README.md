@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Mariam Maghraby <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55"></h1>
 
-```
+```python
 class MariamMaghraby():
     
   def __init__(self):
