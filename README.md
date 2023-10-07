@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
 <h2 align="center">Github Stats</h2>
 
- ![Mariams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-maghraby&hide=issues&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-maghraby&hide_progress=true&theme=radical&langs_count=8)](https://github.com/Mariam-maghraby/github-readme-stats)
+ ![Mariams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam-maghraby&hide=issues&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-maghraby&hide_progress=true&theme=radical&langs_count=8)](https://github.com/Mariam-maghraby/github-readme-stats)
 
 
 
